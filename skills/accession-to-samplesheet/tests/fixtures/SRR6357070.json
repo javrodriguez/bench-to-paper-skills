@@ -1,0 +1,3 @@
+[
+{"run_accession":"SRR6357070","sample_accession":"SAMN08143838","experiment_accession":"SRX3453465","study_accession":"PRJNA421472","library_layout":"PAIRED","library_strategy":"RNA-Seq","library_source":"TRANSCRIPTOMIC","library_selection":"cDNA","instrument_platform":"ILLUMINA","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/SRR635/000/SRR6357070/SRR6357070_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR635/000/SRR6357070/SRR6357070_2.fastq.gz","fastq_md5":"0ec3b5b8811fbbc85916dcb116343ce9;4952276666464f8a96f928d9d79040ad","sample_title":"Wild-type total RNA-Seq biological replicate 1","scientific_name":"Saccharomyces cerevisiae","read_count":"47629288"}
+]

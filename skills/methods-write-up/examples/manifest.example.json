@@ -1,0 +1,26 @@
+{
+  "_note": "EXAMPLE manifest — illustrative values, not a real run. trimming.parameters is deliberately absent so the output shows a marker.",
+  "pipeline": {"name": "nf-core/rnaseq", "version": "3.14.0"},
+  "samples": {"count": 6, "layout": "paired-end"},
+  "strandedness": {"value": "reverse", "how": "as declared in the sample sheet"},
+  "reference": {
+    "genome": "R64-1-1",
+    "genome_source": "Ensembl release 111",
+    "annotation": "R64-1-1 GTF",
+    "annotation_source": "Ensembl release 111"
+  },
+  "trimming": {"tool": "Trim Galore", "version": "0.6.10"},
+  "alignment": {"tool": "STAR", "version": "2.7.10a"},
+  "quantification": {"tool": "Salmon", "version": "1.10.1"},
+  "executor": {"name": "a single Linux workstation"},
+  "sources": {
+    "pipeline": "pipeline_info/software_versions.yml",
+    "reference": "params.json",
+    "trimming": "pipeline_info/software_versions.yml",
+    "alignment": "pipeline_info/software_versions.yml",
+    "quantification": "pipeline_info/software_versions.yml",
+    "samples": "samplesheet.csv",
+    "strandedness": "samplesheet.csv",
+    "executor": "user"
+  }
+}

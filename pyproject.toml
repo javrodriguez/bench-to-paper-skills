@@ -1,0 +1,13 @@
+[project]
+name = "bench-to-paper-skills"
+version = "0.1.0"
+description = "Agent skills for computational biology that stop instead of guessing: accession to sample sheet, run manifest to methods paragraph, and the playbook for using them."
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[tool.pytest.ini_options]
+testpaths = ["skills"]
+markers = ["network: needs the public ENA API (skipped when offline)"]

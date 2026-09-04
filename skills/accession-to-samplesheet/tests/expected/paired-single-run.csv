@@ -1,0 +1,2 @@
+sample,fastq_1,fastq_2,strandedness
+WT_REP1,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR635/000/SRR6357070/SRR6357070_1.fastq.gz,ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR635/000/SRR6357070/SRR6357070_2.fastq.gz,auto

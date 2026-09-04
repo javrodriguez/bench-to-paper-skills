@@ -1,0 +1,19 @@
+{
+  "url": "https://www.ebi.ac.uk/ena/portal/api/filereport?accession=SAMN16192427&result=read_run&fields=run_accession%2Csample_accession%2Cexperiment_accession%2Cstudy_accession%2Clibrary_layout%2Clibrary_strategy%2Clibrary_source%2Clibrary_selection%2Cinstrument_platform%2Cfastq_ftp%2Cfastq_md5%2Csample_title%2Cscientific_name%2Cread_count&format=json",
+  "status": 200,
+  "date_header": "Thu, 03 Sep 2026 21:18:05 GMT",
+  "headers": {
+    "Vary": "Access-Control-Request-Headers",
+    "Cache-Control": "no-cache, no-store, max-age=0, must-revalidate",
+    "Content-Type": "application/json",
+    "Strict-Transport-Security": "max-age=0",
+    "Date": "Thu, 03 Sep 2026 21:18:05 GMT",
+    "Expires": "0",
+    "X-XSS-Protection": "0",
+    "Pragma": "no-cache",
+    "X-Content-Type-Options": "nosniff",
+    "Connection": "close",
+    "X-Frame-Options": "DENY",
+    "Content-Length": "2387"
+  }
+}

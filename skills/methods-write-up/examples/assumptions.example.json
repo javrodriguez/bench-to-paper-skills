@@ -1,0 +1,12 @@
+{
+  "_note": "EXAMPLE assumptions note — illustrative values, not a real analysis.",
+  "de": {
+    "tool": "DESeq2",
+    "version": "1.42.0",
+    "design": "~ condition",
+    "contrast": "treated versus control",
+    "correction": "Benjamini-Hochberg",
+    "threshold": "adjusted p-value below 0.05"
+  },
+  "sources": {"de": "user"}
+}

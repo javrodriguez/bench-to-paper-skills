@@ -1,0 +1,3 @@
+[
+{"run_accession":"ERR17585769","sample_accession":"SAMEA123083811","experiment_accession":"ERX16977006","study_accession":"PRJEB121038","library_layout":"PAIRED","library_strategy":"RNA-Seq","library_source":"TRANSCRIPTOMIC","library_selection":"Oligo-dT","instrument_platform":"ILLUMINA","fastq_ftp":"ftp.sra.ebi.ac.uk/vol1/fastq/ERR175/069/ERR17585769/ERR17585769_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/ERR175/069/ERR17585769/ERR17585769_2.fastq.gz","fastq_md5":"b327c957283b67a599dc65855df26d70;9c4e088d08ce865a98f9c4ef6d46d7ae","sample_title":"rnh1 rnh201 S. cerevisiae, G0 (prior to MA line generation)","scientific_name":"Saccharomyces cerevisiae","read_count":"40995138"}
+]
